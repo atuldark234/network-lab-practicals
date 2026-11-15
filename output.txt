@@ -1,0 +1,2 @@
+Enter network (e.g. 192.168.1.0/24): First IP: 192.168.1.0
+Last IP: 192.168.1.255
